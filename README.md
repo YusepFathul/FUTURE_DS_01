@@ -193,7 +193,6 @@ The project followed a **complete data analytics lifecycle**:
 ## 👤 Author Profile
 
 **Name:** Yusep Fathul Anwar  
-**Role:** Aspiring Data Analyst | Power BI Enthusiast | Data Storyteller  
 
 📧 **Email:** [yusepfathulanwar@gmail.com](mailto:yusepfathulanwar@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/yusepfathulanwar](https://www.linkedin.com/in/yusepfathulanwar/)  
